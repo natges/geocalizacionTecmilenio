@@ -1,0 +1,36 @@
+#map {
+	height: 500px;
+	width: 100%;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+/* Estilo para las tarjetas de campus */
+.card {
+    margin: 16px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 10px;
+    background-color: #64c2aa; /* Cambia el color de fondo según tu preferencia */
+}
+
+/* Estilo para el encabezado de la página */
+.navbar {
+    background-color: #ffffff;
+    color: #fff;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+/* Estilo para las tarjetas de campus */
+.card {
+    margin: 16px;
+	margin-top: 30 px;
+    border: none;
+    border-radius: 10px;
+}
+
